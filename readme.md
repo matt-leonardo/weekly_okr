@@ -18,3 +18,17 @@ Primary Objective
 Subjective Evaluation
 
 Feedback / Areas for improvement
+
+### Review Flow
+
+OKR Review
+
+- Demonstration of work that shows completion of OKR. (Manager provides feedback.)
+- Demonstration of other works that were business critical that interrupts OKR
+- Discussion of challenges encounter
+- Discussion for area of improvement / advise
+
+OKR Setting
+
+- Review of quarterly goals (if not yet established, set it up)
+- Setup of next period OKR relevant to the current situation
